@@ -77,17 +77,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/isexample-core/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerBItemService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CustomerBItemService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/isexample-customer-b/src/main/java/it/balax85/examples/customerb/service/CustomerBItemService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -101,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/isexample-customer-b/src/main/java/it/balax85/examples/customerb/CustomerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -171,8 +171,8 @@
         <option value="$PROJECT_DIR$/isexample-customer-a/pom.xml" />
         <option value="$PROJECT_DIR$/isexample-customer-b/pom.xml" />
         <option value="$PROJECT_DIR$/isexample-customer-c/pom.xml" />
-        <option value="$PROJECT_DIR$/isexample-core/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/isexample-customer-b/src/main/java/it/balax85/examples/customerb/service/CustomerBItemService.java" />
+        <option value="$PROJECT_DIR$/isexample-core/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -1294,14 +1294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/isexample-customer-b/src/main/java/it/balax85/examples/customerb/CustomerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/isexample-customer-a/src/main/java/it/balax85/examples/customera/CustomerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1310,10 +1302,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/isexample-core/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/isexample-customer-b/src/main/java/it/balax85/examples/customerb/CustomerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        <state relative-caret-position="144">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -1322,6 +1314,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isexample-core/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
