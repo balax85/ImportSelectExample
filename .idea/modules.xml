@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImportSelectExample.iml" filepath="$PROJECT_DIR$/ImportSelectExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isexample-common/isexample-common.iml" filepath="$PROJECT_DIR$/isexample-common/isexample-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isexample-core/isexample-core.iml" filepath="$PROJECT_DIR$/isexample-core/isexample-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isexample-customer-a/isexample-customer-a.iml" filepath="$PROJECT_DIR$/isexample-customer-a/isexample-customer-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isexample-customer-b/isexample-customer-b.iml" filepath="$PROJECT_DIR$/isexample-customer-b/isexample-customer-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isexample-customer-c/isexample-customer-c.iml" filepath="$PROJECT_DIR$/isexample-customer-c/isexample-customer-c.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+it/balax85/examples/core/ImportSelectExampleApplication.class
+it/balax85/examples/core/conf/CustomerImportSelector.class
+it/balax85/examples/core/conf/IntegrationConfig.class
+it/balax85/examples/core/controller/ItemController.class
+it/balax85/examples/core/service/ItemService.class
